@@ -1,4 +1,4 @@
-#Hackerrank Algorithm Implementation Challenge #2
+//Hackerrank Algorithm Implementation Challenge #2
 #include <map>
 #include <set>
 #include <list>
